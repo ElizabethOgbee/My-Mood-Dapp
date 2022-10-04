@@ -1,0 +1,12 @@
+{
+  "name": "first-dapp-ethersjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -1 ./src/input.css -o ./dist/output.css",
+    "watch": "tailwindcss -1 ./src/input.css -o ./dist/output.css --watch"
+  },
+  "author": "Ogbe Elizabeth",
+  "license": "ISC"
+}

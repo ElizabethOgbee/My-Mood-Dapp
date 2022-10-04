@@ -3,13 +3,14 @@
 
 ![](page.png)
 
-## list of programing laguages and tools i used for this project include:
+## list of programing laguages, Frameworks and tools i used for this project include:
 
-* Programming Language:
+* Programming Languages and Frameworks:
 
   * HTML
   * Tailwindcss
   * Solidity
+  * Ethersjs
   
 
   
